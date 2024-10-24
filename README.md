@@ -21,3 +21,4 @@ git push origin //rama establecida
 
 COMANDO 5#
 git checkout -b "Nombre de la rama"
+![image](https://github.com/user-attachments/assets/ebd7408e-cbdd-4cf6-a567-cca3bf6c6206)
